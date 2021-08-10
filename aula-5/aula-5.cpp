@@ -10,7 +10,6 @@ int main(){
     
     cout << pi << "\n\n";
     canal
-
-
+    
     return 0;
 }
