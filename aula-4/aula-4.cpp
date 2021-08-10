@@ -13,7 +13,7 @@ int main(){
     string nome="palavra";    // recebe um texto maior "palavra"
 
     // ***cin = atribuição de entrada, << (escreva)
-    // ****cout = atribuição de saída, >> (leia)
+    // **cout = atribuição de saída, >> (leia)
 
     cout << "Digite o número de vidas: ";
     cin >> vidas;
