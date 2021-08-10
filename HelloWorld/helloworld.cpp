@@ -1,5 +1,8 @@
-#include <stdio.h>
+#include <iostream>
 
+using namespace std;
 int main(){
-    printf("hello world, again...");
+    cout << "Tipo um printf do c \ncurso c++" << endl;  // << endl = quebra de linha
+    system ("pause");
+    return 0;
 }
