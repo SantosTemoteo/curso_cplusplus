@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(){
-    int vidas=0;  // tipo nome;
-                // tipo nome = valor_inicial;
+    int vidas=0;  // tipo nome; // tipo nome = valor_inicial;
+                
     char letra='b';     // 'B' = 1 byte somente 1 caracter
     char letras[20];    // passa a ser um vetor, podendo adicionar mais letras com até 20 caracteres
     double decimal=5.29999;     // tipo float, 2.4999999999
