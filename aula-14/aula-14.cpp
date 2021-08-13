@@ -10,7 +10,7 @@ int main(){
         cout << "Bart Simpson - " << cont << "\n";
          // cont ++; // incremento dentro do bloco
         if(cont == 10){
-            break;
+            break; //interrompe loops
         }
     }
     cout << "Fim\n";
