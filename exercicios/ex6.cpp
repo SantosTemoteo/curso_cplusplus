@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-    // Difference
+    //  Difference
     int main(){
 
         int A,B,C,D,PRODUCT;
