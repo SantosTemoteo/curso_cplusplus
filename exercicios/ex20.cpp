@@ -14,7 +14,7 @@ int main(){
 
     cout << ano << " ano(s)" << endl;
     cout << mes << " mes(es)" << endl;
-    cout << value << " dias(s)" << endl;
+    cout << value << " dia(s)" << endl;
 
     return 0;
 }
