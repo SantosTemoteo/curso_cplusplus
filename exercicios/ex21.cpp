@@ -21,7 +21,7 @@ int main(){
 
     c = n*100 + c; // nao entendi muito bem, mas isso aqui deve arredondar pois o calculo não bate
 
-    cout << "NOTAS:" << endl;
+    cout << "MOEDAS:" << endl;
     int moedas[6] = {100, 50, 25, 10, 5, 1};     // array com 6 ídices com os valores das MOEDAS
     for (int i = 0; i < 6; i++){    // var i, enquanto i < 6(nº de ídices), incrementa i
         
