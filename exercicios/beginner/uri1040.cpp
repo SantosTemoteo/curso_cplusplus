@@ -13,15 +13,15 @@ int main(){
     cout << std::fixed << "Media: " << media << endl; 
    
     if(media >= 7){
-        cout << "Aluno aprovado" << endl;
+        cout << "Aluno aprovado." << endl;
     }
     if(media < 5){
         cout << "Aluno reprovado." << endl;
     }
     if(media >= 5 && media <= 6.9){
-        cout << "Aluno em Exame." << endl;
-        cout << "Nota do exame: ";
+        cout << "Aluno em exame." << endl;
         cin >> n1;
+        cout << "Nota do exame: " << n1 << endl;
         media = (media+n1)/2;
 
             if(media >= 5){
