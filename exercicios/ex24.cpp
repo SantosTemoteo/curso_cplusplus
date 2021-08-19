@@ -13,7 +13,7 @@ int main(){
     }else if(n > 50 && n <= 75){
         cout << "Intervalo [50,75]" << endl;
     }else if(n > 75 && n <= 100){
-        cout << "Intervalo (75,100]" << endl;
+        cout << "Intervalo (75,100]" << endl; // '(' = maior que
     } else {
         cout << "Fora de intervalo" << endl;
     }
