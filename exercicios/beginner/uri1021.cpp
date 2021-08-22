@@ -19,7 +19,7 @@ int main(){
         n = n%notas[i];      // n recebe modulo dos valores do array(notas), (1º loop = divide por cem, os outros divide pelo módulo)
     }
 
-    c = n*100 + c; // nao entendi muito bem, mas isso aqui deve arredondar pois o calculo não bate
+    c = n*100 + c; // nao entendi muito bem, mas isso aqui deve arredondar pois o calculo não bate, c = 170 (thankyou debugg)
 
     cout << "MOEDAS:" << endl;
     int moedas[6] = {100, 50, 25, 10, 5, 1};     // array com 6 ídices com os valores das MOEDAS
