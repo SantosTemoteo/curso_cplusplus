@@ -15,9 +15,9 @@ int main(){
     if(x > y){
         temp = x;
         x = y;
-        y = temp;
+        y = temp;   // variavel temp nesse caso, irá receber o valor maior, enquando as outras só irão trocar
     }
-    if(x > z){
+    if(x > z){      // os valores das var's serão guardados para serem usados nas próximas condições, caso foram verdadeiras
         temp = x;
         x = z;
         z = temp;
