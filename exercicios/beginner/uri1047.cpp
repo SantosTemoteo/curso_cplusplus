@@ -14,7 +14,7 @@ int main(){
     }
     if(r_min < 0){
         r_min += 60;    // incrementa 60 min 
-        r_hour -= 1;     // e dencrementa 1h
+        r_hour -= 1;     // e dencrementa 1h, necessário para que diminua 1 min do algoritmo
     }
     if(r_min == 0 && r_hour == 0){
         cout << "O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)" << endl;
