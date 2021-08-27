@@ -5,7 +5,7 @@
 ***
 ***
 
-![foto](https://img-premium.flaticon.com/png/128/3485/premium/3485196.png?token=exp=1629603573~hmac=38a9bfc2efad239415b02cc3c44787a2)
+![foto](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arbcom_ru_ready.svg/250px-Arbcom_ru_ready.svg.png)
 
 * [Download and Install C Cpp Toolset ( gcc g++ gdb )](https://www.youtube.com/watch?v=0HD0pqVtsmw&list=PLUrDFgTqehXO_6kYoqDMEdtHIM8m1WFiE&index=4 "youtube")
 
