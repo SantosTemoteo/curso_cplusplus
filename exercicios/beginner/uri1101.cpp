@@ -3,9 +3,9 @@ using namespace std;
 
 int main(){
 
-    int i,x=1,y=1,temp,sum=0;       // x,y=1 GAMBIARRA
+    int i,x,y,temp,sum=0;       // x,y=1 GAMBIARRA
 
-    while (x>0 && y>0){             // GAMBIARRA
+    while (true){             // GAMBIARRA
         cin >> x >> y;
         if(x<=0 || y<=0){
             break;
