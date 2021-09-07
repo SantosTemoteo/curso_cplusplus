@@ -16,7 +16,7 @@ int main(){         // 60% COPIADO
             x=y;
             y=temp;
         }
-        for(j=x+1;j<y;j++){     // j recebe x(par ou ímpar)+1; que quando incrementado, fica par, ou ímpar.
+        for(j=x+1;j<y;j++){     // j recebe x(par ou ímpar) +1(nº consecutivo); que quando incrementado, fica par, ou ímpar.
             if(j%2 != 0){       // sendo ímpar, soma.
             sum+=j;
             }
