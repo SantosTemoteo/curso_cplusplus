@@ -7,16 +7,15 @@ int main(){ // 100% Presentation error
 
     cin >> n;
 
-    fib[0] = 0;
-    fib[1] = 1;
-
-    cout << fib[0]<< " ";
-    cout << fib[1]<< " ";
+    fib[0] = 0;     // serve apenas para preencher o array
+    fib[1] = 1;     // serve apenas para preencher o array
 
     for(i=2;i<n;i++){
         fib[i]=fib[i-1] + fib[i-2];
-        cout << fib[i] << " ";
     }
-    cout << endl;
+    cout << "0";
+    for(i=1;i<n;i++){
+        cout << " " << fib[i];
+    }
     return 0;
 }
