@@ -24,7 +24,7 @@ int main(){         // 100% copiado >:(
             cout << x << " nao eh primo" << endl;
         }
         else if(k==2){
-            cout << x << "eh primo" << endl;
+            cout << x << " eh primo" << endl;
         }
     }
     return 0;
